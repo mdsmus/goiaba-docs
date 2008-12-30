@@ -6,6 +6,12 @@ developed by Marcos di Silva and Pedro Kröger (from Genos Research
 Group) and it is released under the GPL3 License. It's available at
 http://genos.mus.br/goiaba/
 
+Download
+--------
+
+Goiaba can be downloaded from its git repository:
+http://git.genos.mus.br/cgit.cgi?url=goiaba
+
 About
 -----
 
