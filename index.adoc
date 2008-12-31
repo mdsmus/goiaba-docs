@@ -15,4 +15,4 @@ http://git.genos.mus.br/cgit.cgi?url=goiaba
 About
 -----
 
-Goiaba is developed in common lisp, using emacs, slime, and SBCL.
+Goiaba is developed in Common Lisp, using Emacs, Slime, and SBCL.
