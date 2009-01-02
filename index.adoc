@@ -1,9 +1,9 @@
 Goiaba
 ======
 
-Goiaba is a contour processor computer program for. It has been
-developed by Marcos di Silva and Pedro Kröger (from Genos Research
-Group) and it is released under the GPL3 License. It's available at
+Goiaba is a contour processor computer program. Goiaba is developed by
+Marcos di Silva and Pedro Kröger (from Genos Research Group) and it is
+released under the GPL3 License. It's available at
 http://genos.mus.br/goiaba/
 
 Download
