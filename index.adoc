@@ -13,7 +13,7 @@ Goiaba can be downloaded from its git repository:
 http://git.genos.mus.br/cgit.cgi?url=goiaba
 
 ----
-git clone git clone git://genos.mus.br/goiaba.git
+git clone git://genos.mus.br/goiaba.git
 ----
 
 About
