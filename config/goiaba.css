@@ -28,11 +28,11 @@ strong {
 }
 
 tt {
-  color: navy;
+  color: green;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #527bbd;
+  color: green;
   font-family: sans-serif;
   margin-top: 1.2em;
   margin-bottom: 0.5em;
